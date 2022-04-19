@@ -10,7 +10,6 @@ typedef struct BiTNode{
 typedef BiTree SElemType;
 
 #include "stack.h"
-#include <stdio.h>
 
 Status InitBiTree(BiTree &T){
 	T = NULL;
